@@ -14,7 +14,7 @@ Me chamo Lucas Leonardo sou nascido e criado no Rio Grande do Norde. Comercei mi
 
 
 [![Gmail](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:lucas.lmlucena@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin-white&logoColor=FF00F6)](https://www.linkedin.com/in/llmont/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin-white&logoColor=FF00F6)](https://www.linkedin.com/in/llmonteiro/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/leo11lucas/)
 
 ---
