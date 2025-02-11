@@ -10,7 +10,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Lucas Leonardo sou nascido e criado no Rio Grande do Norde. Comercei minha jornada na programação em 2021 sendo totalmente autodidata. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou um entusiasta da tecnologia desde criança, sempre procurando novas coisas para aprender e conhecimentos para praticar.
+Me chamo Lucas Leonardo sou nascido e criado no Rio Grande do Norte. Comercei minha jornada na programação em 2021 sendo totalmente autodidata. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou um entusiasta da tecnologia desde criança, sempre procurando novas coisas para aprender e conhecimentos para praticar.
 
 
 [![Gmail](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:lucas.lmlucena@gmail.com)
