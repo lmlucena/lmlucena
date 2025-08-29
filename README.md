@@ -97,7 +97,10 @@ Me chamo Lucas Leonardo sou nascido e criado no Rio Grande do Norte. Comercei mi
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lmlucena&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/lmlucena/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lmlucena&line_height=90&card_width=90&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lmlucena&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/lmlucena/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmlucena&hide=gdscript&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
 
